@@ -12,3 +12,6 @@
   - User: user
   - Password: user
 ---
+
+- **In case of errors or help**
+  - Contact: $ick#9379
