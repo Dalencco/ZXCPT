@@ -1,0 +1,2 @@
+sourcedefender==7.1.61
+colorama==0.4.4
