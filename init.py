@@ -6,4 +6,4 @@ try:
   import sourcedefender
   import zxcpt
 except ImportError:
-  os.system('pip3 install requirements.txt')
+  os.system('pip3 install -r requirements.txt')
