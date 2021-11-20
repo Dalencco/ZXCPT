@@ -1,9 +1,8 @@
 import os
-import sys
 
 try:
-  import colorama
-  import sourcedefender
-  import zxcpt
-except ImportError:
-  os.system('pip3 install -r requirements.txt')
+    import colorama
+    import sourcedefender
+    import zxc
+except ModuleNotFoundError:
+    os.system('pip3 install -r requirements.txt')
